@@ -1,8 +1,12 @@
 # Target_Locations_finder_hack4lx
 Target_Locations_finder
 
+**********************************************************
 
-https://github.com/attakercyebr/Target_Locations_finder_hack4lx/blob/master/Target_Locations_finder.jpg
+# On the Wild:
+![Locations](https://github.com/attakercyebr/Target_Locations_finder_hack4lx/blob/master/Target_Locations_finder.jpg) 
+
+**********************************************************
 
 
 🦠 YouTube👣:: (http://b2n.ir/934271)
